@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\bin\Debug\net6.0\PruebaCRUD.EN.deps.json
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\bin\Debug\net6.0\PruebaCRUD.EN.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\bin\Debug\net6.0\PruebaCRUD.EN.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\refint\PruebaCRUD.EN.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\PruebaCRUD.EN.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.EN\obj\Debug\net6.0\ref\PruebaCRUD.EN.dll

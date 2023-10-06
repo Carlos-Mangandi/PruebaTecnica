@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\bin\Debug\net6.0\PruebaCRUD.DAL.deps.json
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\bin\Debug\net6.0\PruebaCRUD.DAL.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\bin\Debug\net6.0\PruebaCRUD.DAL.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\bin\Debug\net6.0\PruebaCRUD.EN.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\bin\Debug\net6.0\PruebaCRUD.EN.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\refint\PruebaCRUD.DAL.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\PruebaCRUD.DAL.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.DAL\obj\Debug\net6.0\ref\PruebaCRUD.DAL.dll
