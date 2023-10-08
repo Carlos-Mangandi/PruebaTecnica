@@ -11,6 +11,7 @@ namespace PruebaCRUD.DAL
     public class BDContexto : DbContext
     {
         public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<Rol> Rol { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -35,5 +35,19 @@ namespace PruebaCRUD.BL
         {
             return await UsuarioDAL.ObtenerTodosAsync();
         }
+
+        public async Task<List<Usuario>> BuscarAsync(Usuario pUsuario)
+        {
+            return await UsuarioDAL.BuscarAsync(pUsuario);
+        }
+        public async Task<Usuario> LoginAsync(Usuario pUsuario)
+        {
+            return await UsuarioDAL.LoginAsync(pUsuario);
+        }
+
+        public async Task<List<Usuario>> BuscarIncluirRolesAsync(Usuario pUsuario)
+        {
+            return await UsuarioDAL.BuscarIncluirRolesAsync(pUsuario);
+        }
     }
 }

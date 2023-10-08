@@ -8,7 +8,6 @@ namespace PruebaCRUD.WebAPI.Auth
 {
     public class JwtAuthenticationService : IJwtAuthenticationService
     {
-        //inyección de dependencias de la llave de autenticación
         private readonly string _key;
         public JwtAuthenticationService(string key)
         {

@@ -66,3 +66,6 @@ C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\obj\Debug\net6.0\refint\
 C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\obj\Debug\net6.0\PruebaCRUD.WebAPI.pdb
 C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\obj\Debug\net6.0\PruebaCRUD.WebAPI.genruntimeconfig.cache
 C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\obj\Debug\net6.0\ref\PruebaCRUD.WebAPI.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MINEDUCYT\Desktop\PruebaCRUD\PruebaCRUD.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
